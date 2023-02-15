@@ -67,15 +67,5 @@ namespace StringSharp.Conversions
             }
         }
 
-        ///// <summary>
-        ///// Split the string values to char array.
-        ///// </summary>
-        ///// <param name="value"></param>
-        ///// <returns></returns>
-        //public static char[] AsEnumerable(this string value)
-        //{
-        //    var spanValue = value.AsSpan();
-        //    return spanValue.ToArray();
-        //}
     }
 }
